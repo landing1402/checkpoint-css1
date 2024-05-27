@@ -1,0 +1,33 @@
+/*projet css*/
+ul.horizontal li {
+    margin-right: 10px;
+  }
+
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    text-transform: capitalize;
+  }
+section {
+    background: radial-gradient(circle, #4CAF50, #45a049); 
+  }
+
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+
+  h3{
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+  }
+ 
